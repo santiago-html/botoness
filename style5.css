@@ -1,0 +1,42 @@
+instagram* {
+    box-sizing: border-box;
+}
+instagram{
+    text-decoration: none;
+    color: rgb(134, 43, 43);
+    background:linear-gradient(to right,violet, blue);
+    display: flex;
+    color: aqua;
+    align-items: center;
+    border-radius: 5%;
+    transition: all 600ms;
+}
+instagram:hover{
+    opacity:0.9;
+}
+
+ steam* {
+ box-sizing: border-box;
+ }
+steam {
+    text-decoration: none;
+    text-align: center;
+    color: black;
+    background:linear-gradient( blue);
+    display: flex;
+    align-items: center;
+    color: white;
+    border-radius: 5%;
+    transition: all 600ms;
+}
+
+img{
+    width: 50px;
+    }
+
+
+steam:hover{
+    opacity:0.9;
+}
+
+
